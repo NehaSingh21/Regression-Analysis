@@ -22,7 +22,7 @@ Model :
 
 For each stock we define a linear model of the form 
 
-  r_S ~ r_SPY + r_QQQ + r_ETF1 + ... + r_ETFk
+ > r_S ~ r_SPY + r_QQQ + r_ETF1 + ... + r_ETFk
   
 where ETF1, ETF2,.. ,ETFk are all the ETFs that the stock is top 40 member of. Each value represents the daily returns.  
 
