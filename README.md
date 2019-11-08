@@ -1,6 +1,6 @@
 # Regression-Analysis
 
-Data : 
+**Data :** 
 
 We have a list of 9 ETFs as given below - 
 
@@ -18,7 +18,7 @@ For each ETF, we will find its top 40 US stock holdings. Next for all the stocks
 download daily adjusted closing prices for Jan, Feb & March 2019. 
 
 
-Model : 
+**Model :**
 
 For each stock we define a linear model of the form 
 
